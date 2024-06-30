@@ -1,0 +1,49 @@
+/* Write your CSS here */
+
+.blue-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-card {
+  background-color: #f8fafc;
+  background-size: cover;
+  width: 35%;
+  height: 40%;
+  padding: 15px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+select {
+  padding: 7px;
+  margin-right: 5px;
+  border: 1px solid #cbd2d9;
+  border-radius: 3px;
+}
+
+h1,
+h2 {
+  font-family: 'roboto';
+  font-size: 35px;
+  font-weight: 500;
+  color: #323f4b;
+}
+
+span {
+  font-family: 'roboto';
+  font-size: 17px;
+  font-weight: 500;
+  color: #000000;
+}
+h2 {
+  font-size: 25px;
+}
